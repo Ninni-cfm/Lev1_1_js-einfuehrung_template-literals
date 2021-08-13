@@ -2,10 +2,10 @@
 // Name, Nachname, Alter, Geburtsort, Größe, Gewicht, Hobbys, Computerspiele,
 // Lieblingsessen, Lieblingssport, Lieblingsmodemarke, Lieblingsjahreszeit,
 // Lieblingsurlaubsort
-let firstName = "Klaus";
-let lastName = "Nienhaus";
+let firstName = "Bert";
+let lastName = "Broedel";
 let age = 57;
-let placeOfBirth = "Bocholt";
+let placeOfBirth = "München";
 let size = "1.98m";
 let weight = "to much 😁!";
 let hobbies = "everything about computers, trains - original and model -, and sewing";
