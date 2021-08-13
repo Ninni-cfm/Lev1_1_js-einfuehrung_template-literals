@@ -11,6 +11,6 @@ Gib mit Hilfe von String concatenation oder Template literals einen Satz in der 
 
 ---
 
-_Source:_ https://github.com/Ninni-cfm/Lev1_1_js-einfuehrung_template-literals
+_Source:_ https://github.com/Ninni-cfm/day40_Lev1_1_js-einfuehrung_template-literals
 
-_Demo:_ https://ninni-cfm.github.io/Lev1_1_js-einfuehrung_template-literals/
+_Demo:_ https://ninni-cfm.github.io/day40_Lev1_1_js-einfuehrung_template-literals/
